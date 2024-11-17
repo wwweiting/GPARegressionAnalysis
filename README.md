@@ -4,7 +4,7 @@
 This project analyzes the relationship between **GPA**, **weekly study hours**, and **parental support levels** using a dataset sourced from [Kaggle](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset). The analysis involves scatter plots, box plots, and regression modeling to explore the impact of study habits and parental involvement on academic performance.
 
 ## Dataset
-- **Source**: Kaggle - [Students Performance Dataset](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)
+- **Source**: Kaggle - [Students Performance Dataset](./path/to/your-file.csv)
 - **Processed Records**: 318 entries with 10 fields, no missing values.
 - **Fields**:
   - `StudentID`: Unique student identifier.
@@ -62,5 +62,5 @@ Using `StudyTimeWeekly = 15` and `ParentalSupport = High`, the predicted GPA is 
 This project highlights the critical role of parental support and study habits in academic performance. While the model demonstrates significant relationships, future studies can expand on these findings with more comprehensive datasets and variables.
 
 ## Acknowledgments
-- Dataset: [Students Performance Dataset](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)
+- Dataset: [Students Performance Dataset](./path/to/your-file.csv)
 - Analysis by: Wei-Ting Huang
