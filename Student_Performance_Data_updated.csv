@@ -1,0 +1,319 @@
+StudentID,Age,Gender,Ethnicity,ParentalEducation,StudyTimeWeekly,Absences,ParentalSupport,GPA,GradeClass
+1002,18,Male,Caucasian,High School,15.41,0,Moderate,3.04,B
+1010,16,Female,Caucasian,High School,18.44,0,High,3.57,A
+1027,16,Male,Caucasian,High School,10.37,2,Moderate,2.95,C
+1045,18,Female,Caucasian,High School,18.92,1,High,4,A
+1052,16,Female,Asian,None,2.2,12,Low,1.99,F
+1085,17,Female,Caucasian,Some College,5.13,12,High,2.34,D
+1094,16,Male,Asian,Some College,7.1,16,High,2.24,D
+1107,16,Male,Asian,High School,2.81,18,None,0.84,F
+1110,17,Male,Asian,High School,10.08,12,Moderate,2.59,C
+1116,18,Female,Caucasian,Bachelor's,1.56,15,None,0.88,F
+1117,15,Female,Asian,None,2.12,21,Moderate,1.34,F
+1120,15,Male,Asian,High School,19.57,3,High,3.62,A
+1122,15,Female,African American,High School,9.75,7,Low,2.97,C
+1124,17,Female,Asian,High School,12.79,4,High,3.1,B
+1126,18,Female,Caucasian,Some College,8.61,14,Moderate,2.59,C
+1145,18,Male,Asian,Some College,4.92,7,Moderate,2.43,D
+1146,17,Female,Caucasian,Bachelor's,10.64,9,High,2.66,C
+1149,15,Male,African American,Higher,1.36,22,Low,1.01,F
+1158,16,Male,Caucasian,Some College,10.37,6,Moderate,2.78,C
+1164,18,Female,Asian,Some College,10.67,7,High,2.67,C
+1177,17,Female,Asian,Some College,9.93,6,High,2.75,C
+1180,17,Male,Asian,Some College,15.21,1,High,3.27,B
+1187,16,Female,Caucasian,Some College,10.81,2,High,2.96,C
+1203,17,Male,Caucasian,Some College,11.78,5,High,2.97,C
+1218,15,Female,Caucasian,Some College,10.73,6,Moderate,2.59,C
+1220,17,Female,Caucasian,High School,1.23,17,Moderate,1.47,F
+1221,17,Female,Caucasian,Bachelor's,3.25,22,High,1.71,F
+1233,18,Female,Caucasian,None,3.51,17,Low,1.39,F
+1236,18,Female,African American,Bachelor's,8.93,2,Moderate,2.51,C
+1242,17,Female,Moderate,Some College,3.64,13,None,1.64,F
+1252,15,Male,African American,High School,6.19,7,Moderate,2.13,D
+1254,15,Male,Caucasian,Higher,13.32,3,High,3.12,B
+1261,15,Female,Caucasian,Some College,4.21,6,Low,2.3,D
+1274,18,Male,Caucasian,High School,2.33,16,Low,1.16,F
+1276,18,Female,African American,High School,8.74,9,Moderate,2.59,C
+1282,18,Male,Caucasian,None,8.09,8,High,2.97,C
+1284,17,Male,Caucasian,High School,5.14,5,Low,2.33,D
+1290,18,Male,Asian,None,7.67,5,Low,2.22,D
+1293,15,Female,Caucasian,Some College,12.28,3,Very High,3.27,B
+1325,16,Female,African American,Some College,10.86,5,Low,2.98,C
+1332,15,Male,Caucasian,Some College,6.54,8,High,2.38,D
+1344,16,Female,Asian,High School,1.13,21,None,1.03,F
+1347,17,Female,Asian,Some College,11.21,8,Low,2.61,C
+1348,18,Female,Caucasian,Some College,14.57,6,High,3.11,B
+1352,15,Male,Caucasian,High School,10.95,3,Moderate,2.87,C
+1362,15,Female,Caucasian,Bachelor's,7.02,9,Low,2,D
+1369,17,Female,Caucasian,Bachelor's,3.34,20,Low,1.14,F
+1378,15,Male,African American,None,9.3,1,Low,3,C
+1380,15,Male,Caucasian,Some College,8.99,10,High,2.83,C
+1383,18,Female,African American,High School,10.57,5,Moderate,2.66,C
+1397,18,Female,Asian,High School,2.96,18,Moderate,1.09,F
+1402,18,Male,Caucasian,Bachelor's,14.29,6,Moderate,3.04,B
+1415,17,Male,Asian,High School,3.84,24,Low,0.7,F
+1426,15,Male,Caucasian,High School,3.53,24,Moderate,1.05,F
+1427,15,Male,Caucasian,Bachelor's,11.6,8,Low,2.54,C
+1429,15,Female,Asian,High School,6.4,12,Moderate,2.03,D
+1430,18,Male,Caucasian,Some College,13.41,1,Moderate,3.27,B
+1440,17,Female,African American,High School,8.97,4,Moderate,2.68,C
+1443,15,Male,Caucasian,Some College,19.42,0,High,4,A
+1448,16,Male,Caucasian,Some College,13.81,3,High,3.29,B
+1452,16,Male,Asian,None,8.81,3,Moderate,2.88,C
+1466,17,Male,Caucasian,Some College,6.65,13,Moderate,2.26,D
+1468,15,Male,Caucasian,Higher,5.25,7,Moderate,2.5,D
+1474,18,Male,African American,Some College,11.84,11,High,2.57,C
+1483,15,Female,Asian,High School,9.54,9,Moderate,2.52,C
+1498,18,Male,Asian,Some College,10.56,0,Low,2.92,C
+1505,17,Female,African American,None,18.75,0,Very High,3.95,A
+1509,18,Female,Caucasian,None,1.87,20,Low,0.89,F
+1515,16,Female,Asian,Some College,1.45,22,None,1.16,F
+1518,16,Male,Caucasian,None,11.86,15,Moderate,2.64,C
+1537,18,Female,Asian,High School,4.74,6,Low,2.15,D
+1554,18,Female,Caucasian,Some College,10.85,5,Moderate,2.58,C
+1558,16,Female,Asian,Bachelor's,16.2,0,High,3.65,A
+1560,16,Male,African American,High School,12.68,5,High,3.37,B
+1568,18,Male,Asian,Higher,6.02,4,Low,2.33,D
+1577,15,Male,Asian,Some College,2.56,17,None,1.28,F
+1580,16,Female,Caucasian,Some College,14.97,5,High,3.28,B
+1584,16,Male,Caucasian,High School,3.93,12,Low,1.62,F
+1592,18,Male,Asian,Some College,7.56,1,Low,2.42,D
+1595,18,Female,Caucasian,Bachelor's,10.08,7,Moderate,2.64,C
+1596,18,Male,African American,High School,14.18,1,High,3.44,B
+1599,18,Female,Caucasian,High School,6.68,4,None,2.41,D
+1601,15,Female,African American,Some College,6.82,7,Low,2.45,D
+1622,16,Male,Caucasian,Bachelor's,3.29,12,Low,1.87,F
+1626,16,Male,Caucasian,Some College,2.46,25,Low,0.9,F
+1628,16,Male,Asian,High School,6.3,8,High,2.15,D
+1629,17,Female,Caucasian,Some College,2.31,12,Low,1.45,F
+1631,15,Female,African American,None,14.39,3,Moderate,3.09,B
+1637,15,Male,African American,High School,2.07,20,Low,1.28,F
+1640,18,Female,Caucasian,Some College,10.32,5,Moderate,2.66,C
+1646,15,Female,Asian,Some College,7.62,15,Moderate,2.02,D
+1653,17,Female,Asian,High School,11.21,5,Low,2.85,C
+1681,18,Male,Caucasian,High School,8.21,1,Moderate,2.9,C
+1690,16,Male,Asian,Some College,19.46,6,High,3.63,A
+1700,17,Female,Asian,Some College,10.87,15,Moderate,2.51,C
+1711,17,Male,Asian,Some College,4.2,12,High,2.23,D
+1715,18,Female,Asian,Some College,3.01,23,Low,1.06,F
+1717,17,Male,African American,Some College,16.03,3,High,3.52,A
+1737,18,Male,Asian,Bachelor's,10.75,9,Moderate,2.61,C
+1740,18,Male,Asian,Some College,4.9,4,Low,2.26,D
+1747,17,Male,African American,Some College,3.57,26,Low,0.86,F
+1760,17,Female,Caucasian,Bachelor's,2.44,28,None,0.87,F
+1765,15,Female,Asian,High School,7.27,9,None,2,D
+1777,15,Female,Asian,High School,12.06,1,Moderate,3.45,B
+1778,18,Female,Caucasian,Higher,1.14,20,Low,0.82,F
+1783,18,Male,Caucasian,Some College,3.01,23,None,1.17,F
+1788,18,Male,African American,None,9.37,6,Moderate,2.64,C
+1797,15,Female,Asian,None,3.23,13,Moderate,1.69,F
+1806,18,Male,Asian,Some College,4.22,5,None,2.12,D
+1817,15,Female,Caucasian,High School,5.48,7,High,2.2,D
+1819,18,Male,Caucasian,High School,2.34,22,Low,1.07,F
+1839,18,Female,African American,Bachelor's,13.54,3,High,3.31,B
+1850,16,Female,Caucasian,High School,8.12,5,Moderate,2.76,C
+1855,17,Female,African American,None,7.07,9,High,2.25,D
+1870,16,Female,African American,High School,2.02,11,Low,1.62,F
+1877,16,Female,African American,High School,19.21,1,High,3.58,A
+1884,18,Female,Asian,Bachelor's,11.04,4,Moderate,2.87,C
+1895,18,Female,Caucasian,Some College,8.71,2,Low,2.62,C
+1902,18,Male,African American,Some College,11.7,7,Low,2.64,C
+1913,15,Female,Caucasian,Some College,1.04,18,Low,1.36,F
+1920,18,Male,African American,High School,18.11,1,High,3.87,A
+1926,17,Female,Caucasian,Bachelor's,19.77,1,Moderate,3.51,A
+1931,17,Male,Asian,Some College,3.97,17,Low,1.4,F
+1936,15,Male,African American,High School,6.1,7,Moderate,2.09,D
+1940,16,Female,Asian,High School,5.61,12,Very High,2.1,D
+1943,18,Male,Asian,High School,3.43,19,Low,1.14,F
+1946,17,Female,Asian,Bachelor's,12.58,1,Very High,3.4,B
+1952,18,Female,Caucasian,Some College,18.67,4,High,3.84,A
+1955,17,Female,Caucasian,None,15.57,5,High,3.16,B
+1961,15,Male,Asian,High School,7.92,6,Low,2.4,D
+1962,15,Male,African American,Some College,19.28,3,Very High,3.58,A
+1966,15,Male,Caucasian,Some College,14.07,2,Moderate,3.42,B
+1971,18,Female,African American,Bachelor's,6.07,15,High,2.13,D
+1990,18,Female,Caucasian,Some College,7.26,6,Low,2.07,D
+1991,16,Male,Caucasian,None,1.05,19,Moderate,1.75,F
+2025,18,Female,Caucasian,Some College,3.83,13,Low,1.58,F
+2028,17,Male,Caucasian,Higher,7.55,18,Moderate,2.43,D
+2042,16,Male,Caucasian,High School,6.27,7,Moderate,2.1,D
+2051,16,Male,Caucasian,Some College,7.19,10,Moderate,2.18,D
+2056,15,Male,Asian,Some College,9.04,1,Moderate,2.67,C
+2062,15,Female,Caucasian,High School,15.85,6,Very High,3.46,B
+2081,17,Female,African American,Some College,5.04,12,High,2.06,D
+2100,17,Male,African American,Higher,14.84,6,Moderate,3.15,B
+2116,17,Male,Caucasian,Some College,13.86,8,Very High,3.29,B
+2133,16,Male,Caucasian,Higher,8.37,1,Moderate,2.61,C
+2139,18,Female,Caucasian,High School,7.91,8,Low,2.28,D
+2140,15,Female,Asian,Some College,5.97,8,Low,2.48,D
+2142,15,Female,Caucasian,Some College,14.93,5,High,3.35,B
+2154,16,Male,Caucasian,High School,9.29,7,Low,2.63,C
+2155,18,Male,Caucasian,High School,14.89,1,High,3.11,B
+2158,15,Female,African American,High School,8.64,6,Moderate,2.92,C
+2159,18,Male,Asian,None,15.72,9,Moderate,3.18,B
+2160,18,Male,Caucasian,Bachelor's,9.25,11,Moderate,2.61,C
+2166,16,Male,Caucasian,Bachelor's,11.09,3,Moderate,2.81,C
+2179,17,Male,Caucasian,Some College,3.95,17,None,0.82,F
+2186,18,Male,Caucasian,Bachelor's,2.65,20,Low,1.03,F
+2196,15,Female,Asian,Some College,8.74,2,Low,2.79,C
+2200,15,Male,Caucasian,None,7.76,9,None,2.3,D
+2204,16,Male,African American,Bachelor's,8.47,8,Moderate,2.9,C
+2205,15,Female,Caucasian,Some College,10.3,7,Moderate,2.68,C
+2219,15,Male,African American,Bachelor's,15.76,6,Moderate,3.13,B
+2222,16,Male,Asian,Higher,9,12,Moderate,2.96,C
+2235,16,Female,Caucasian,Some College,8.97,9,Moderate,3,C
+2236,18,Male,Asian,None,19.61,2,High,3.52,A
+2241,15,Male,Caucasian,None,15.51,7,High,3.16,B
+2249,16,Female,Caucasian,Some College,2.61,17,High,1.91,F
+2257,16,Male,African American,Some College,1.28,7,None,1.81,F
+2264,17,Female,Caucasian,Some College,8.28,12,Low,2.71,C
+2265,16,Male,Caucasian,Bachelor's,5.4,11,Moderate,2.1,D
+2278,17,Female,Caucasian,High School,8.83,10,Low,2.6,C
+2279,15,Female,Caucasian,Some College,18.9,3,High,4,A
+2281,16,Male,Asian,High School,12.86,5,Very High,3.43,B
+2296,16,Female,Caucasian,High School,5.64,11,Moderate,2.14,D
+2316,18,Female,Caucasian,Bachelor's,2.7,12,Low,1.72,F
+2321,18,Male,Asian,High School,19.89,2,High,3.52,A
+2324,16,Female,Caucasian,None,6.32,8,Moderate,2.44,D
+2327,15,Female,Caucasian,Higher,5.61,11,High,2.19,D
+2332,16,Female,Caucasian,Some College,11.92,9,Low,2.71,C
+2336,16,Female,Caucasian,Some College,13.03,4,High,3.37,B
+2358,17,Female,Asian,High School,15.75,12,Very High,3.02,B
+2370,16,Female,Asian,None,10.27,10,Low,2.7,C
+2372,17,Female,Caucasian,None,7.47,10,Moderate,2.27,D
+2378,15,Female,Caucasian,High School,8.26,2,Low,2.81,C
+2380,16,Female,Asian,High School,13.59,3,Moderate,3.38,B
+2381,16,Female,Caucasian,High School,1.34,16,Low,1.38,F
+2390,15,Male,Caucasian,Bachelor's,10.84,2,Moderate,2.52,C
+2417,15,Male,Caucasian,Some College,8.06,7,Moderate,2.51,C
+2430,17,Female,Caucasian,High School,8.16,5,None,2.58,C
+2436,16,Male,Caucasian,High School,18.22,0,Very High,3.75,A
+2462,15,Male,Asian,Some College,9.14,5,High,2.82,C
+2472,16,Female,Caucasian,Some College,1.82,15,Low,1.61,F
+2479,16,Female,Caucasian,High School,7.43,15,High,2.16,D
+2480,18,Male,Caucasian,Higher,8.98,3,Moderate,2.75,C
+2486,17,Male,Asian,Some College,8.24,7,High,2.84,C
+2497,18,Male,African American,Bachelor's,9.95,5,Moderate,2.91,C
+2509,18,Female,Caucasian,Higher,6.74,13,Moderate,2.11,D
+2510,18,Male,Caucasian,High School,11.71,5,High,2.55,C
+2511,17,Female,Asian,Bachelor's,6.31,9,Moderate,2.12,D
+2514,15,Female,Caucasian,None,3.76,13,Moderate,1.81,F
+2515,18,Male,African American,Some College,8.56,3,Moderate,2.67,C
+2516,16,Male,Caucasian,High School,13.17,5,High,3.1,B
+2517,17,Male,African American,Some College,5.28,15,Moderate,2.43,D
+2521,16,Male,Caucasian,High School,19.26,0,Very High,3.52,A
+2523,15,Male,Asian,High School,9.42,8,High,2.57,C
+2527,17,Female,African American,High School,6.46,10,High,2.25,D
+2528,15,Male,Asian,Some College,4.75,14,Moderate,2.06,D
+2531,16,Female,Asian,High School,14.88,1,High,3.26,B
+2537,15,Male,African American,Some College,13.28,1,Moderate,3.38,B
+2548,17,Male,Caucasian,Some College,7.77,15,High,2.13,D
+2554,18,Female,Caucasian,High School,5.68,11,Moderate,2.31,D
+2565,17,Male,Asian,Some College,11.99,1,Moderate,2.92,C
+2566,17,Male,Caucasian,Some College,8.38,9,High,2.52,C
+2568,18,Female,Caucasian,Some College,1.08,8,Low,1.66,F
+2577,17,Female,African American,None,5.03,11,High,2.08,D
+2591,18,Female,Caucasian,High School,15.84,7,Moderate,3.01,B
+2593,18,Female,Asian,Some College,7.97,8,Low,2.3,D
+2603,16,Female,Caucasian,Some College,15.46,3,Low,3.36,B
+2614,15,Female,Caucasian,High School,13.36,2,High,3.01,B
+2618,15,Female,Caucasian,Bachelor's,14.33,3,Moderate,3.46,B
+2624,18,Female,Caucasian,High School,9.53,5,Moderate,2.76,C
+2631,17,Female,African American,High School,8.3,3,Low,2.69,C
+2640,16,Male,Caucasian,High School,14.19,10,Very High,3.14,B
+2650,16,Female,Caucasian,Some College,6.04,10,High,2.32,D
+2652,16,Female,African American,Some College,6.58,6,None,2.1,D
+2659,15,Female,Asian,Some College,18.87,1,Moderate,3.62,A
+2661,17,Male,Asian,Some College,10.06,7,High,2.74,C
+2691,16,Male,African American,Some College,8.36,8,High,2.8,C
+2693,18,Male,Caucasian,Some College,12.98,4,Moderate,3.34,B
+2694,17,Female,Caucasian,High School,7,13,High,2.18,D
+2704,17,Male,Caucasian,High School,4.29,14,Moderate,2.25,D
+2705,17,Male,Caucasian,Some College,11.7,7,Moderate,2.72,C
+2709,18,Female,African American,Some College,16.21,1,High,3.55,A
+2714,15,Male,African American,None,1.99,13,Low,1.86,F
+2741,18,Female,African American,None,10.28,10,High,2.78,C
+2745,16,Female,Asian,High School,10.54,9,High,2.52,C
+2751,18,Female,Caucasian,None,11.87,9,High,2.67,C
+2758,15,Female,Asian,Bachelor's,13.35,2,Moderate,3.05,B
+2764,17,Female,Caucasian,Some College,6.27,12,Moderate,2.26,D
+2766,18,Female,Asian,Some College,7.8,7,Moderate,2.45,D
+2775,17,Female,Caucasian,Some College,5.49,8,High,2.42,D
+2793,17,Female,Caucasian,Bachelor's,11.43,8,Moderate,2.51,C
+2796,16,Female,African American,Some College,11.93,0,Low,2.74,C
+2800,15,Male,Asian,None,11.09,8,Moderate,2.79,C
+2802,15,Male,Asian,Some College,14.41,5,High,3.06,B
+2804,18,Female,Caucasian,None,6.66,12,Moderate,2.5,D
+2807,18,Male,Caucasian,Some College,12.75,7,High,3.01,B
+2818,17,Female,Caucasian,Some College,9.53,2,Low,2.72,C
+2835,18,Male,Caucasian,Some College,5.73,5,Low,2.23,D
+2838,18,Female,Caucasian,Some College,1.05,16,Low,1.82,F
+2839,18,Male,Asian,Some College,5.07,8,High,2.34,D
+2841,16,Female,Caucasian,Bachelor's,2.08,17,Low,1.58,F
+2844,17,Female,Caucasian,Some College,13.18,4,Moderate,3.11,B
+2847,18,Female,Asian,Some College,9.7,11,High,2.51,C
+2859,17,Male,Caucasian,Some College,9.09,8,Low,2.75,C
+2864,16,Female,African American,Bachelor's,4.23,13,High,2.13,D
+2888,18,Male,Caucasian,Bachelor's,7.85,8,Low,2.2,D
+2889,17,Female,Caucasian,High School,10.09,8,Moderate,2.5,C
+2891,16,Female,Caucasian,High School,5.07,8,High,2.44,D
+2894,17,Female,African American,High School,2.64,21,Low,1.07,F
+2900,16,Female,Caucasian,High School,14.82,5,High,3.22,B
+2911,18,Female,Asian,Some College,7.98,11,Moderate,2.12,D
+2915,18,Female,Caucasian,Bachelor's,8.66,0,Low,2.96,C
+2920,15,Male,Asian,High School,17.44,1,High,4,A
+2927,15,Female,Caucasian,None,6.49,16,Moderate,2.1,D
+2938,16,Female,Asian,None,9.22,4,Low,2.72,C
+2958,17,Male,African American,High School,5.37,8,Low,2.29,D
+2960,17,Male,African American,Bachelor's,11.04,0,Moderate,2.91,C
+2986,16,Female,Asian,High School,12.76,3,Moderate,3.34,B
+2991,18,Male,African American,Some College,17.08,3,Moderate,3.56,A
+2999,17,Female,Caucasian,Some College,5.48,14,Moderate,2.2,D
+3000,15,Female,African American,High School,4,6,Low,1.9,F
+3014,18,Male,African American,High School,16.28,4,High,3.5,A
+3029,16,Female,Caucasian,None,18.66,0,Very High,4,A
+3049,17,Female,Asian,Some College,17.99,9,High,3.51,A
+3054,18,Male,Asian,Some College,14.74,4,Moderate,3.02,B
+3056,17,Male,Asian,Higher,2.45,19,Moderate,1.11,F
+3060,17,Female,African American,None,7.34,9,High,2.29,D
+3068,15,Female,African American,Bachelor's,14.08,9,High,3.03,B
+3073,18,Female,African American,Some College,3.99,15,Low,1.92,F
+3085,15,Male,Caucasian,Some College,9.08,6,Moderate,2.89,C
+3094,16,Male,Asian,High School,5.78,10,Moderate,2.03,D
+3096,17,Female,Caucasian,High School,10.44,6,Moderate,2.87,C
+3100,17,Male,African American,Some College,6.72,11,None,2.04,D
+3101,17,Male,African American,Bachelor's,5.81,6,Moderate,2.05,D
+3116,16,Female,Caucasian,Some College,10.98,1,Moderate,2.79,C
+3127,15,Female,Caucasian,Some College,16.93,1,High,3.6,A
+3130,18,Male,African American,High School,2.78,13,Moderate,1.95,F
+3132,15,Male,African American,High School,14.64,6,High,3.22,B
+3140,16,Female,Caucasian,Some College,2,13,Low,1.78,F
+3147,15,Male,Caucasian,High School,12.32,0,Moderate,3.33,B
+3161,15,Male,Caucasian,Some College,12.65,7,High,3.18,B
+3169,16,Male,Asian,Some College,1.17,17,Low,1.64,F
+3173,15,Female,Caucasian,Some College,13.02,13,Moderate,3.14,B
+3175,15,Female,Caucasian,Some College,2.25,13,Low,1.69,F
+3196,16,Male,Caucasian,None,3.84,7,Low,1.8,F
+3202,16,Female,Caucasian,High School,8.19,15,High,2.56,C
+3218,15,Male,Caucasian,High School,14.54,4,High,3.37,B
+3223,16,Male,Caucasian,Some College,9.77,0,Moderate,3,C
+3231,16,Male,Caucasian,Some College,4.65,11,Low,2.06,D
+3236,18,Female,African American,Some College,13.42,20,Moderate,3.6,B
+3260,17,Female,Asian,High School,5.93,8,Low,2.21,D
+3262,18,Male,Asian,High School,4.6,12,Moderate,2.38,D
+3283,18,Female,Caucasian,None,13.26,15,High,3.42,B
+3284,18,Male,Asian,Some College,17.83,5,High,3.82,A
+3291,16,Male,Asian,Some College,18.52,11,Moderate,4,A
+3292,18,Female,Caucasian,High School,18.19,9,High,3.81,A
+3298,17,Female,Asian,Some College,4.14,10,Very High,2.31,D
+3299,17,Male,Caucasian,Some College,18.36,10,High,3.64,A
+3300,18,Male,Caucasian,Some College,16.3,24,High,3.86,A
+3315,17,Female,Asian,High School,10.03,7,High,2.74,C
+3324,18,Male,Caucasian,High School,4.29,6,Low,2.01,D
+3326,15,Female,Asian,Some College,14.72,13,High,3.81,B
+3335,15,Male,Asian,Some College,10.89,9,Moderate,2.63,C
+3339,18,Female,Caucasian,Some College,12.48,1,Moderate,3.57,B
+3343,15,Male,Caucasian,None,10.59,15,High,2.84,C
+3364,18,Female,Asian,High School,11.86,9,High,2.67,C
+3376,18,Male,Caucasian,Some College,18.93,24,High,3.69,A
+3377,17,Female,Asian,Some College,14.67,3,Moderate,3.14,B
