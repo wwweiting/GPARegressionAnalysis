@@ -30,12 +30,15 @@ This project analyzes the relationship between **GPA**, **weekly study hours**, 
 ## Analysis
 ### 1. Relationship Between GPA and Study Time
 - Scatter plot analysis revealed a **positive correlation** between GPA and weekly study hours.
+- ![GPA and Study Time Scatter Plot](GPA_StudyTime.png)
 
 ### 2. Impact of Parental Support on GPA
 - Scatter plots with colored markers indicate that higher parental support generally corresponds to better GPA performance.
+- ![Parental Support Scatter Plot](GPA_ParentalSupport.png)
 - Box plots reveal:
   - Students with higher parental support tend to study more.
   - High parental support does not guarantee excellent GPA, indicating variability.
+  - ![Box Plot Analysis](Allbox.png)
 
 ### 3. Regression Analysis: Parental Support and GPA
 - Regression model shows:
