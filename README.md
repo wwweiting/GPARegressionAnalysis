@@ -34,6 +34,7 @@ This project analyzes the relationship between **GPA**, **weekly study hours**, 
 
 ### 2. Impact of Parental Support on GPA
 - Scatter plots with colored markers indicate that higher parental support generally corresponds to better GPA performance.
+  
   <img src="GPA_ParentalSupport.png" alt="Box Plot Analysis" width="50%">
 - Box plots reveal:
   - Students with higher parental support tend to study more.
